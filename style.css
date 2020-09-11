@@ -33,6 +33,10 @@ a {
 	
 	}
 
+.logo:hover {
+	color:red
+}
+
 .header-link
 	{float:right;
 	padding:15px 15px;
@@ -41,7 +45,13 @@ a {
 	height:50px;
 	font-family: 'Roboto';
 	
+	
 }
+
+.header-link:hover {
+	color:red
+}
+	
 
 .content {
 	min-height:600px;
@@ -80,6 +90,9 @@ color:#fff;
 	opacity:1;
 	
 	}
+.button:hover {
+	color:black
+}
 		
 .container{
 	
@@ -136,11 +149,6 @@ color:#fff;
 
 
 	
-
-
-
-
-
 
 
 
